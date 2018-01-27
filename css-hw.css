@@ -1,0 +1,25 @@
+.classWithPad {
+    
+    column-gap: 20px;
+}
+.top-pad{
+  padding-top: 20px;
+}
+.h4-top{
+         background-color:#00CED1;
+         color: white; 
+        font-weight: bold;
+        font-family: 'Georgia', 'Times New Roman', 'Times', 'serif';
+       }
+
+       
+.h4-style{
+    color: 	#00CED1;
+    font-weight: bold;
+    font-family: 'Georgia', 'Times New Roman', 'Times','serif';
+}
+.h2-style{
+    color: 	#00CED1;
+    font-weight: bold;
+    font-family: 'Georgia', 'Times New Roman', 'Times', 'serif';
+}
