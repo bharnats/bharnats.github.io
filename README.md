@@ -20,7 +20,7 @@ The website consists of 7 pages total, including:
 * A paragraph describing the plot and its significance.
 
 
-* A Comparisons-page that: ![Plot_Comparison](plot_comparison.html)
+* A Comparisons-page that: ![Plot_Comparison](https://bharnats.github.io/plot_comparison.html)
   * Contains all of the visualizations on the same page so we can easily visually compare them.
   * Used bootstrap grid to customize the website.    
 * A Data page(#data-page) that: ![landing_page](index.html)
