@@ -9,10 +9,17 @@ The website consists of 7 pages total, including:
 * A landing-page containing: ![landing_page](index.html)
   * An explanation of the project.
   * Links to each visualizations page.
-* Four visualization-pages, each with: ![landing_page](index.html)
-  * A descriptive title and heading tag.
-  * The plot/visualization itself for the selected comparison.
-  * A paragraph describing the plot and its significance.
+  
+* Four visualization-pages, 
+   * ![Max_Temp_Page](Max_Temp_Page.html)
+   * ![humidity_Page](humidity.html)
+   * ![Cloudiness_Page](Cloudiness.html)
+   * ![wind_speed_Page](wind_speed.html)
+* A descriptive title and heading tag.
+* The plot/visualization itself for the selected comparison.
+* A paragraph describing the plot and its significance.
+
+
 * A Comparisons-page that: ![landing_page](index.html)
   * Contains all of the visualizations on the same page so we can easily visually compare them.
   * Used bootstrap grid to customize the website.    
