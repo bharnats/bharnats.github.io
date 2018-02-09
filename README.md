@@ -6,17 +6,17 @@ Data is more powerful when we share it with others! Used HTML/CSS/Bootstrap and 
 
 The website consists of 7 pages total, including:
 
-* A landing-page containing:
+* A landing-page containing: ![landing_page](index.html)
   * An explanation of the project.
   * Links to each visualizations page.
-* Four visualization-pages, each with:
+* Four visualization-pages, each with: ![landing_page](index.html)
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
   * A paragraph describing the plot and its significance.
-* A Comparisons-page that:
+* A Comparisons-page that: ![landing_page](index.html)
   * Contains all of the visualizations on the same page so we can easily visually compare them.
   * Used bootstrap grid to customize the website.    
-* A Data page(#data-page) that:
+* A Data page(#data-page) that: ![landing_page](index.html)
   * Displays a responsive table containing the data used in the visualizations.
     * The table used is a bootstrap table component.
     * The data comes from exporting the `.csv` file as HTML, or converting it to HTML. Used a csv-to-html table conversion tool to accomplish this.
