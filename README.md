@@ -6,15 +6,15 @@ Data is more powerful when we share it with others! Used HTML/CSS/Bootstrap and 
 
 The website consists of 7 pages total, including:
 
-* A landing-page containing: ![landing_page](index.html)
+* A landing-page containing: https://bharnats.github.io/index.html
   * An explanation of the project.
   * Links to each visualizations page.
   
 * Four visualization-pages, 
-   * ![Max_Temp_Page](Max_Temp_Page.html)
-   * ![humidity_Page](humidity.html)
-   * ![Cloudiness_Page](Cloudiness.html)
-   * ![wind_speed_Page](wind_speed.html)
+   * https://bharnats.github.io/Max_Temp_Page.html
+   * https://bharnats.github.io/humidity.html
+   * https://bharnats.github.io/Cloudiness.html
+   * https://bharnats.github.io/wind_speed.html
 * A descriptive title and heading tag.
 * The plot/visualization itself for the selected comparison.
 * A paragraph describing the plot and its significance.
@@ -22,8 +22,10 @@ The website consists of 7 pages total, including:
 
 * A Comparisons-page that: https://bharnats.github.io/plot_comparison.html
   * Contains all of the visualizations on the same page so we can easily visually compare them.
-  * Used bootstrap grid to customize the website.    
-* A Data page(#data-page) that: ![landing_page](index.html)
+  * Used bootstrap grid to customize the website.   
+  
+
+* A Data page(#data-page) that: https://bharnats.github.io/data.html)
   * Displays a responsive table containing the data used in the visualizations.
     * The table used is a bootstrap table component.
     * The data comes from exporting the `.csv` file as HTML, or converting it to HTML. Used a csv-to-html table conversion tool to accomplish this.
