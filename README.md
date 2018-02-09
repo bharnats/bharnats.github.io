@@ -22,4 +22,4 @@ The website consists of 7 pages total, including:
     * The data comes from exporting the `.csv` file as HTML, or converting it to HTML. Used a csv-to-html table conversion tool to accomplish this.
     
 Finally, the website is deployed to the GitHub pages!
-visit: (https://bharnats.github.io/)
+visit: https://bharnats.github.io/
