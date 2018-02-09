@@ -20,12 +20,12 @@ The website consists of 7 pages total, including:
      * A paragraph describing the plot and its significance.
 
 
-* A Comparisons-page that: https://bharnats.github.io/plot_comparison.html
+* A Comparisons-page: https://bharnats.github.io/plot_comparison.html
   * Contains all of the visualizations on the same page so we can easily visually compare them.
   * Used bootstrap grid to customize the website.   
   
 
-* A Data page(#data-page) : https://bharnats.github.io/data.html
+* A Data page : https://bharnats.github.io/data.html
   * Displays a responsive table containing the data used in the visualizations.
     * The table used is a bootstrap table component.
     * The data comes from exporting the `.csv` file as HTML, or converting it to HTML. Used a csv-to-html table conversion tool to accomplish this.
